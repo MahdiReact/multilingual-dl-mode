@@ -1,0 +1,32 @@
+.header {
+       width: 100%;
+       padding: 20px 10px;
+      
+}
+#light .header{
+    color: #000;
+}
+#dark .header {
+    color: #fff;
+}
+.header-menu{
+    display: flex;
+    list-style: none;
+}
+.header-menu li{
+    padding: 0px 10px;
+}
+.header-title{
+    margin-left: 50px;
+}
+.label {
+    margin:  0 20px ;
+}
+.change-lang-desc{
+    margin: 20px;
+}
+select{
+    padding: 5px 20px;
+    font-size: 17px;
+    border-radius: 5px;
+}
